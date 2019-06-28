@@ -2,7 +2,7 @@
 An Open511 API Event Listener that plots events on a map with Python's gmplot library
 
 Construction events in orange
-<img src="./cons.png">
+<img src="./cons.PNG">
 Other event types are color-coded accordingly.
 
 ### To run:
