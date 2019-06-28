@@ -1,5 +1,5 @@
 # BC-Traffic-Events-Plot
-An Open511 API Event Listener that plots events on a map with Python's gmplot library
+An Open511 API Event Listener that plots live traffic events on a map with Python's gmplot library
 
 Construction events in orange:
 <img src="./cons.PNG">
